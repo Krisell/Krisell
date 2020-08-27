@@ -1,4 +1,4 @@
-Web developer and DevOps at Teachiq in Gotenburg, Sweden.
+Web developer and DevOps at Teachiq in Gothenburg, Sweden.
 
 M.Sc. in EE but with my heart in CS. 
 
