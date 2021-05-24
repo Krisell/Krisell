@@ -9,8 +9,8 @@
  * Endless hours of online courses on Udemy, Laracasts etc.
 
 #### 💻 Current stack of choice
- * 🎨 UI: `Vue.js`, `TailwindCSS`.
  * ⚙️ Backend: `Laravel` `(PHP)`, `JS/TS`.
+ * 🎨 UI: `Vue.js`, `TailwindCSS`.
  * 💾 Database: Relational, but of course trying to use the right tool for the job.
 
 **Techincal goals**: Continue to strive for deep understanding. Contribute more to open source.
