@@ -15,6 +15,6 @@
 
 **Techincal goals**: Continue to strive for deep understanding. Contribute more to open source.
 
-**Future plans**: I plan on eventually teach again, but currently the web development world is way too exciting.
+**Future plans**: I plan on working as a teacher again, but currently the web development world is way too exciting.
 
 **Fun fact**: Competitive powerlifter and absolutely-not-competitive disc-golfer.
