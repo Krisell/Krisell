@@ -13,7 +13,7 @@
  * 🎨 UI: `Vue.js`, `TailwindCSS`.
  * 💾 Database: Relational, but of course trying to use the right tool for the job.
 
-**Techincal goals**: Continue to strive for deep understanding. Contribute more to open source.
+**Technical goals**: Continue to strive for deep understanding. Contribute more to open source.
 
 **Future plans**: I plan on working as a teacher again eventually, but currently the web development world is way too exciting.
 
