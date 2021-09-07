@@ -6,7 +6,7 @@
 
  * M.Sc. in EE but with my heart in CS (and many extra CS courses). Master's thesis on Cryptograpy.
  * Licensed high school teacher in mathematics and programming. 
- * Endless hours of online courses on Udemy, Laracasts etc.
+ * Endless hours of online courses on Udemy, Coursera, Laracasts etc.
 
 #### 💻 Current stack of choice
  * ⚙️ Backend: `Laravel` `(PHP)`, `JS/TS`.
