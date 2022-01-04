@@ -1,6 +1,6 @@
 #### 🎉 Current work
 
- * Web developer and DevOps at <a target="_blank" href="https://teachiq.com">Teachiq</a> in Gothenburg, Sweden.
+ * Full stack web developer and DevOps at <a target="_blank" href="https://teachiq.com">Teachiq</a> in Gothenburg, Sweden.
 
 #### 📚 Education
 
@@ -13,7 +13,7 @@
  * 🎨 UI: `Vue.js`, `TailwindCSS`.
  * 💾 Database: Relational, but of course trying to use the right tool for the job.
 
-**Technical goals**: Continue to strive for deep understanding. Contribute more to open source.
+**Technical goals**: Continue to strive for deep understanding. Contribute more to open source. Especially interested in computer/web security, cryptography and web performance.
 
 **Future plans**: I plan on working as a teacher again eventually, but currently the web development world is way too exciting.
 
