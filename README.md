@@ -15,6 +15,6 @@
 
 **Technical goals**: Continue to strive for deep understanding. Contribute more to open source. Especially interested in computer/web security, cryptography and web performance.
 
-**Future plans**: I plan on working as a teacher again eventually, but currently the web development world is way too exciting.
+**Future plans**: I plan on working as a teacher again in the future, but currently the web development world is way too exciting.
 
 **Fun fact**: Competitive powerlifter and absolutely-not-competitive disc-golfer.
