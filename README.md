@@ -14,7 +14,7 @@
  * 🎨 UI: `Vue.js`, `TailwindCSS`.
  * 💾 Database: Prefering relational, but of course using the right tool for the job.
 
-**Technical goals**: Continue to strive for deep understanding. Contribute more to open source. Especially interested in computer/web security, cryptography.
+**Technical goals**: Continue to strive for deep understanding. Contribute more to open source. Especially interested in computer/web security and cryptography.
 
 **Future plans**: I plan on working as a teacher again in the future, but currently the web development world is way too exciting.
 
