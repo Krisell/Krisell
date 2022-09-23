@@ -12,7 +12,7 @@
 #### 💻 Current stack of choice
  * ⚙️ Backend: `Laravel` `(PHP)`, `JS/TS`.
  * 🎨 UI: `Vue.js`, `TailwindCSS`.
- * 💾 Database: Prefering relational, but of course using the right tool for the job.
+ * 💾 Database: Often relational but trying to use the right tool for the job.
 
 **Technical goals**: Continue to strive for deep understanding. Contribute more to open source. Especially interested in computer/web security and cryptography.
 
