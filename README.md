@@ -18,4 +18,4 @@
 
 **Future plans**: I plan on working as a teacher again in the future, but currently the web development world is way too exciting.
 
-**Fun fact**: Competitive powerlifter and absolutely-not-competitive disc-golfer.
+**Fun fact**: Competitive raw powerlifter/bench presser.
