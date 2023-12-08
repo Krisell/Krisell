@@ -7,7 +7,7 @@
  * M.Sc. in EE but with my heart in CS (and many extra CS courses). Master's thesis on Cryptograpy.
  * Licensed high school teacher in mathematics and programming. 
  * Endless hours of online courses on Coursera, Udemy, Laracasts etc.
- * Plenty of extra courses within the Swedish higher education system mostly within the area of software engineering, machine learning, computer security, cryptography, cryptocurrency and mathematics.
+ * Plenty of extra courses within the Swedish higher education system, mostly within the area of software engineering, machine learning, computer security, cryptography, cryptocurrency and mathematics.
 
 #### 💻 Current stack of choice
  * ⚙️ Backend: `Laravel` `(PHP)`, `JS/TS`.
