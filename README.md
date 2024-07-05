@@ -4,7 +4,7 @@
 
 #### 📚 Education
 
- * M.Sc. in EE but with my heart in CS (and many extra CS courses). Master's thesis on Cryptograpy.
+ * M.Sc. in EE but with my heart in CS (and many extra CS courses). Master's thesis on cryptograpy.
  * Licensed high school teacher in mathematics and programming. 
  * Endless hours of online courses on Coursera, Udemy, Laracasts etc.
  * Plenty of extra courses within the Swedish higher education system, mostly within the area of software engineering, machine learning, computer security, cryptography, cryptocurrency and mathematics.
