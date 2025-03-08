@@ -20,7 +20,6 @@
 
 **Fun fact**: Competitive raw bench presser.
 
-**I can work hard**:
 ```bash
 echo -n "Martin_Sandström_Krisell abck2071389072" | sha256sum
 0000000000b74685349be79713ea82aed23b74f4224c788c780c6e2c3d1fb5ed - 
